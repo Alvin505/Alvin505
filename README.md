@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alvin505
 - 👀 I’m interested in Embeded and Computer Vision
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Imagene prossesing
+- 💞️ I’m looking to collaborate on Image prossesing
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
