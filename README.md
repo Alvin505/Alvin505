@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">A passionate OS engineer</h3>
+<h3 align="center">A passionate Embedded System Engineer</h3>
 
 - 🌱 I’m currently learning **Communication protocols**
 
